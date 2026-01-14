@@ -1,5 +1,0 @@
-# 동기화 불필요 파일 제외
-*
-!settings.json
-!CLAUDE.md
-!.gitignore
