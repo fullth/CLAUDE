@@ -1,9 +1,5 @@
 {
   "$schema": "https://json.schemastore.org/claude-code-settings.json",
-  "alwaysThinkingEnabled": false,
-  "feedbackSurveyState": {
-    "lastShownTime": 1754272150346
-  },
   "hooks": {
     "Notification": [
       {
@@ -55,5 +51,10 @@
         ]
       }
     ]
+  },
+  "alwaysThinkingEnabled": true,
+  "idleTimeoutSeconds": 60,
+  "feedbackSurveyState": {
+    "lastShownTime": 1754272150346
   }
 }
